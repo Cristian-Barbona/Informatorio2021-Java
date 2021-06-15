@@ -1,0 +1,12 @@
+Ariel,García,18-10-1980,85720
+Cristian,Delgado,19-12-1981,65780
+Mirta,González,23-11-1977,72590
+Juana,López,19-08-1952,155842
+Nilda,Duarte,17-04-1985,47678
+Marcos,Quintana,04-07-1977,56428
+Pedro,Maidana,18-04-1979,35742
+Carlos,Vallejos,08-12-1979,74489
+Margarita,Espinoza,23-02-1959,120036
+Vanesa,Meza,08-02-1982,100661
+Juan,Barbona,08-03-1948,235050
+Federico,Fresco,03-01-1992,32745
